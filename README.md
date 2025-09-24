@@ -1,1 +1,2 @@
-# SGU_PTDL_TEAM_2025
+# Học phần: **Phân tích dữ liệu - 841432**
+# Giảng viên hướng dẫn: **Đỗ Như Tài**
